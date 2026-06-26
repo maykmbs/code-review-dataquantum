@@ -54,7 +54,7 @@ Abre `.env` y rellena tus keys:
 | Variable | Dónde obtenerla |
 |----------|----------------|
 | `GROQ_API_KEY` | console.groq.com → API Keys |
-| `GITHUB_TOKEN` | github.com/settings/tokens → Generate new token (classic) → marcar `public_repo` |
+| `GITHUB_TOKEN` | https://github.com/settings/personal-access-tokens → Generate new token (fine-grained) → marcar `public_repo` |
 | `LANGSMITH_API_KEY` | smith.langchain.com → Settings → API Keys |
 
 ### 5. Ejecutar el demo
